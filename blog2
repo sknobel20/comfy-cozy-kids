@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog - BLS Comfy Cozy Kids</title>
+<meta name="description" content="Notes on pediatric health equity, safety-net hospitals, and what we're learning along the way.">
+<link rel="stylesheet" href="style2.css">
+</head>
+<body>
+
+<nav>
+  <a class="logo" href="index2.html">BLS Comfy Cozy Kids</a>
+  <div class="links">
+    <a href="index2.html">Home</a>
+    <a href="about2.html">About</a>
+    <a href="donate2.html">Donate</a>
+    <a href="blog2.html" class="active">Blog</a>
+  </div>
+</nav>
+
+<section class="narrow">
+  <h1 style="font-size:2.4rem;text-align:center;">Blog</h1>
+  <p style="text-align:center;color:var(--muted-foreground);margin-top:10px;margin-bottom:40px;">
+    Notes on pediatric health equity, safety-net hospitals, and what we're learning as we go.
+  </p>
+
+  <div class="post-list">
+    <a class="post-preview" href="blog/safety-net-hospitals.html">
+      <div class="post-date">July 2026</div>
+      <h3>What "safety-net hospital" actually means, and why it matters for kids</h3>
+      <p>A look at the gap in pediatric care access across Boston neighborhoods, and why we focus where we do.</p>
+    </a>
+  </div>
+</section>
+
+<footer>
+  BLS Comfy Cozy Kids · Boston Latin School · <a href="mailto:blscomfycozykids@gmail.com">blscomfycozykids@gmail.com</a>
+</footer>
+
+</body>
+</html>
